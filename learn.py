@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 import keras
 
-from utils import DataGenerator
+from data_generator import DataGenerator
 
 tf.config.experimental.enable_tensor_float_32_execution(False)
 
