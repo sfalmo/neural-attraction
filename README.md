@@ -1,9 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13384421.svg)](https://doi.org/10.5281/zenodo.13384421)
+
+
 # Neural density functional theory of liquid-gas phase coexistence
 
 This repository contains code, datasets and models corresponding to the following publication:
 
 **Neural density functional theory of liquid-gas phase coexistence**  
-*Florian Sammüller, Matthias Schmidt, and Robert Evans.*
+*Florian Sammüller, Matthias Schmidt, and Robert Evans; [arXiv:2408.15835](https://arxiv.org/abs/2408.15835).*
 
 ### Setup
 
