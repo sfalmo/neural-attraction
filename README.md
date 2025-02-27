@@ -10,9 +10,11 @@ This repository contains code, datasets and models corresponding to the followin
 
 ### Setup
 
-Working in a virtual environment is recommended.
-Set one up with `python -m venv .venv`, activate it with `source .venv/bin/activate` and install the required packages with `pip install -r requirements.txt`.
-To use a GPU with Tensorflow/Keras, refer to the corresponding section in the installation guide at [https://www.tensorflow.org/install/pip](https://www.tensorflow.org/install/pip).
+Ensure that you are using Python 3.12.
+Set up a virtual environment with `python -m venv .venv`, activate it with `source .venv/bin/activate` and install the required packages with `pip install -r requirements.txt`.
+
+Tensorflow/Keras is installed with Nvidia GPU support.
+For troubleshooting, refer to the corresponding section in the installation guide at [https://www.tensorflow.org/install/pip](https://www.tensorflow.org/install/pip).
 
 ### Instructions
 
